@@ -155,6 +155,7 @@
 *** xref:manage:fast-commission-decommission.adoc[]
 *** xref:manage:remote-read-replicas.adoc[Remote Read Replicas]
 *** xref:manage:topic-recovery.adoc[Topic Recovery]
+*** xref:manage:topic-iceberg-integration.adoc[Apache Iceberg Integration]
 *** xref:manage:whole-cluster-restore.adoc[Whole Cluster Restore]
 ** xref:manage:schema-reg/index.adoc[Schema Registry]
 *** xref:manage:schema-reg/schema-reg-overview.adoc[]
